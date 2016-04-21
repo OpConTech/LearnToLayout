@@ -20,13 +20,13 @@ Tried adding constraints and it got worse?
 
 # Features
 
-### Align One Object  
-![LearnToLayout](https://www.knowledgekeeper.com/assets/githubProjects/LearnToLayout_02.png)
-
+### Align One Object
 Start by learning to align one object in a view using constraints. Use the folloing contratints: Object Height, Object Width, Horizonal Center Align, Vertical Center Align, Vertical Distance to Top. Learn to update frames to "see" how the object will look in the view before running the simulator. 
 
 
-### Align Two Objects
+### Align Two Objects  
+![LearnToLayout](https://www.knowledgekeeper.com/assets/githubProjects/LearnToLayout_02.png)  
+
 Moving on to two objects requires learning how to click and drag to the nearest object that is to be used as a constraint. Use the folloing contratints: Object Height, Object Width, Vertical Distance to Top, Horizontal Distance to Nearest Object, Align to Nearest Object
 
 
