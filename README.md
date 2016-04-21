@@ -4,7 +4,8 @@ This is the iOS application for
 [*Quickly Master the Basics of AutoLayout in Interface Builder*] (https://github.com/OpConTech/LearnToLayout)
 
 by [*Tom Neary*] 
-![(https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/tomneary?utm_source=github&utm_medium=button&utm_term=tomneary&utm_campaign=github)
+[![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/tomneary?utm_source=github&utm_medium=button&utm_term=tomneary&utm_campaign=github)
+
 
 ![LearnToLayout](https://www.knowledgekeeper.com/assets/githubProjects/LearnToLayout_01.png)
 
