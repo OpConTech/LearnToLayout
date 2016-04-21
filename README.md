@@ -3,7 +3,7 @@
 This is the iOS application for
 [*Quickly Master the Basics of AutoLayout in Interface Builder*] (https://github.com/OpConTech/LearnToLayout)
 
-by [*Tom Neary*]\s\s
+by [*Tom Neary*]  
 [![Contact me on Codementor](https://cdn.codementor.io/badges/contact_me_github.svg)](https://www.codementor.io/tomneary?utm_source=github&utm_medium=button&utm_term=tomneary&utm_campaign=github)
 
 
@@ -20,7 +20,7 @@ Tried adding constraints and it got worse?
 
 # Features
 
-Align One Object\s\s
+Align One Object  
 ![LearnToLayout](https://www.knowledgekeeper.com/assets/githubProjects/LearnToLayout_02.png)
 
 Start by learning to align one object in a view using constraints. Use the folloing contratints: Object Height, Object Width, Horizonal Center Align, Vertical Center Align, Vertical Distance to Top. Learn to update frames to "see" how the object will look in the view before running the simulator. 
